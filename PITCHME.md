@@ -17,6 +17,18 @@ History, Development, and Restoration
 
 ---
 
+### WHO AM I?
+
+- Started with BASIC, then 68000 assembler
+- Read about hackers as a kid
+- Binutils PDP-11 support
+- GCC PDP-10 support
+
+<img src="pics/vic20.jpg" width="60%"></img>
+<img src="pics/dict.jpg" width="20%"></img>
+
+---
+
 ### WHAT IS IT?
 
 - ITS is an operating system for PDP-10 computers.
