@@ -4,6 +4,8 @@
 
 History, Development, and Restoration
 
+Lars Brinkhoff
+
 ---
 
 ### Overview
