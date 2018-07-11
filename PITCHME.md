@@ -112,7 +112,7 @@ History, Development, and Restoration
 
 ### Features and Limitations
 
-- PCLSR
+- PCLSR, PC lusering
 - Processes & processors available as files
 - The debugger is the user interface
 - Application command sets are similar to Emacs
