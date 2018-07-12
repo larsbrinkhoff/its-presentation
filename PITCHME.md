@@ -31,7 +31,7 @@ Lars Brinkhoff
 
 ---
 
-### WHAT IS IT?
+### WHAT IS ITS?
 
 - ITS is an operating system for PDP-10 computers.
 - Created at MIT in 1967, kept running until 1990.
