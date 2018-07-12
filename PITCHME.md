@@ -44,9 +44,9 @@ Lars Brinkhoff
 ### Beginnings
 
 - First version 1967
-- Reaction against CTSS and Multics
-- For the PDP-6 computer
 - At the MIT AI lab
+- Alternative to CTSS and Multics
+- For the PDP-6 computer
 
 <img src="pics/PDP-6.jpg" width="40%"></img>
 
