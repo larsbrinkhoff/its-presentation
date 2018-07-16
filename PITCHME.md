@@ -234,6 +234,12 @@ Lars Brinkhoff
 
 ---
 
+### Git Repository
+
+http://github.com/PDP-10/its
+
+---
+
 ### Demo
 
 - Booting
