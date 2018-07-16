@@ -112,6 +112,32 @@ Lars Brinkhoff
 
 ---
 
+### Research
+
+<div style="float: left; width: 60%;">
+<ul>
+<li>Robotics</li>
+<li>Computer Vision</li>
+<li>Logo</li>
+<li>Lisp, Scheme</li>
+<li>Lisp Machine</li>
+<li>Mathlab, Macsyma</li>
+<li>Dynamic Modeling</li>
+<li>Computer Graphics</li>
+<li>Programming Technology</li>
+<li>Networking</li>
+</li>
+</div>
+
+<div style="float: right; width: 40%;">
+<img src="pics/robot.jpg" width="45%"></img>
+<img src="pics/Turtle.jpg" width="45%"></img>
+<img src="pics/CADR.jpg" width="45%"></img>
+<img src="pics/IMP.jpg" width="40%"></img>
+</div>
+
+---
+
 ### Features and Limitations
 
 - PCLSR, PC lusering
