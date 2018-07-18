@@ -53,12 +53,13 @@ Lars Brinkhoff
 
 ### Beginnings
 
-- First version 1967
 - At the MIT AI lab
-- Alternative to CTSS and Multics
+- First version 1967
 - For the PDP-6 computer
+- Grew from singe-user tools
+- Alternative to CTSS and Multics
 
-<img src="pics/PDP-6.jpg" width="40%"></img>
+<img src="pics/PDP-6.jpg" width="35%"></img>
 
 ---
 
