@@ -202,6 +202,7 @@ Lars Brinkhoff
 - GNU project
 - Emacs
 - Emacs Lisp, Common Lisp
+- Unexec
 - Info
 - Unix job control
 - "More" utility
