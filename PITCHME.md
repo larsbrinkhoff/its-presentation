@@ -6,6 +6,8 @@ History, Development, and Restoration
 
 Lars Brinkhoff
 
+<img src="pics/ictech.png" width="30%"></img>
+
 ---
 
 ### Overview
