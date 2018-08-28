@@ -123,6 +123,19 @@ Lars Brinkhoff
 
 ---
 
+### Multiprocessing
+
+- PDP-10, timesharing
+- PDP-6, stand alone
+- PDP-11, perpiherals
+- CONS, Lisp machine
+- CHEOPS, chess machie
+- GT40, vector display
+- Imlac, vector display
+- Tools and software
+
+---
+
 ### Research
 
 <div style="float: left; width: 60%;">
