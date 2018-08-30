@@ -129,14 +129,24 @@ Lars Brinkhoff
 
 ### Multiprocessing
 
-- PDP-10, timesharing
-- PDP-6, stand alone
-- PDP-11, perpiherals
-- CONS, Lisp machine
-- CHEOPS, chess machie
-- GT40, vector display
-- Imlac, vector display
-- Tools and software
+<div style="float: left; width: 60%;">
+<ul>
+<li>PDP-10, timesharing</li>
+<li>PDP-6, stand alone</li>
+<li>PDP-11, perpiherals</li>
+<li>CONS, Lisp machine</li>
+<li>CHEOPS, chess machie</li>
+<li>GT40, vector display</li>
+<li>Imlac, vector display</li>
+<li>Tools and software</li>
+</ul>
+</div>
+
+<div style="float: right; width: 40%;">
+<img src="pics/PDP-11.jpg" width="45%"></img>
+<img src="pics/GT40.jpg" width="45%"></img>
+<img src="pics/Imlac.jpg" width="45%"></img>
+</div>
 
 ---
 
@@ -154,7 +164,7 @@ Lars Brinkhoff
 <li>Computer Graphics</li>
 <li>Programming Technology</li>
 <li>Networking</li>
-</li>
+</ul>
 </div>
 
 <div style="float: right; width: 40%;">
@@ -208,7 +218,7 @@ Lars Brinkhoff
 </div>
 
 <div style="float: right; width: 50%;">
-<img src="pics/Imlac.jpg" width="45%"><br>
+<img src="pics/MazeWar.jpg" width="45%"><br>
 <img src="pics/shrdlu.jpg" width="45%"><br>
 </div>
 
@@ -216,15 +226,24 @@ Lars Brinkhoff
 
 ### Legacy
 
-- GNU project
-- Emacs
-- Emacs Lisp, Common Lisp
-- Unexec
-- Info
-- Unix job control
-- "More" utility
-- Meta key
+<div style="float: left; width: 60%;">
+<ul>
+<li>GNU project</li>
+<li>Emacs</li>
+<li>Emacs Lisp, Common Lisp</li>
+<li>Unexec</li>
+<li>Info</li>
+<li>Unix job control</li>
+<li>"More" utility</li>
+<li>Meta key</li>
+</ul>
+</div>
 
+<div style="float: right; width: 40%;">
+<img src="pics/GNU.jpg" width="40%"><br>
+<img src="pics/Emacs.png" width="40%"><br>
+<img src="pics/Meta.jpg" width="40%"><br>
+</div>
 ---
 
 ### A New Hope
