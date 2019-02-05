@@ -43,6 +43,21 @@ Lars Brinkhoff
 
 ---
 
+### PDP-10 family
+
+- Lifespan 1964-1988
+- Generations: PDP-6, KA10, KI10, KL10, KS10
+- 36-bit word length
+- 18-bit address space
+- Designed with Lisp in mind
+- Large orthogonal instruction set
+- Pleasant assembly language
+- Popular on the ARPANET
+
+<img src="pics/PDP-1040.jpg" width="30%"></img>
+
+---
+
 ### Before ITS
 
 - AI Lab 1959
@@ -95,21 +110,6 @@ Lars Brinkhoff
 - Two more machines: DM and ML
 
 <img src="pics/MIT-DMS.jpg" width="40%"></img>
-
----
-
-### PDP-10 family
-
-- Lifespan 1964-1988
-- Generations: PDP-6, KA10, KI10, KL10, KS10
-- 36-bit word length
-- 18-bit address space
-- Designed with Lisp in mind
-- Large orthogonal instruction set
-- Pleasant assembly language
-- Popular on the ARPANET
-
-<img src="pics/PDP-1040.jpg" width="30%"></img>
 
 ---
 
