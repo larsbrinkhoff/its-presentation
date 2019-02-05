@@ -61,8 +61,8 @@ Lars Brinkhoff
 ### Before ITS
 
 - AI Lab 1959
-- Project MAC 1963
 - CTSS 1961-1963
+- Project MAC 1963
 - Multics 1964-1967
 
 <img src="pics/CTSS.jpeg" width="40%"></img>
