@@ -249,10 +249,9 @@ Lars Brinkhoff
 ### A New Hope
 
 - ITS running on an emulator 1992
-- Put on Internet 2001, by Lysator member
+- Put on Internet 2001
 - Public ITS distribution
 - Unix tools for ITS files and networking
-- ITS wiki by Update member
 - Restoration 2016
 
 <img src="pics/pdp10x.jpg" width="25%">
