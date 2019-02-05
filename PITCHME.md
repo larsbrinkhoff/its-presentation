@@ -159,7 +159,7 @@ Lars Brinkhoff
 <li>Logo</li>
 <li>Lisp, Scheme</li>
 <li>Lisp Machine</li>
-<li>Mathlab, Macsyma</li>
+<li>Macsyma</li>
 <li>Dynamic Modeling</li>
 <li>Computer Graphics</li>
 <li>Programming Technology</li>
