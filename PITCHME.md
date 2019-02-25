@@ -135,7 +135,7 @@ Lars Brinkhoff
 <li>PDP-6, stand alone</li>
 <li>PDP-11, perpiherals</li>
 <li>CONS, Lisp machine</li>
-<li>CHEOPS, chess machie</li>
+<li>CHEOPS, chess machine</li>
 <li>GT40, vector display</li>
 <li>Imlac, vector display</li>
 <li>Tools and software</li>
