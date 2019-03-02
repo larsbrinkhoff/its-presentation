@@ -267,12 +267,7 @@ Lars Brinkhoff
 - Many bug fixes
 - Issue tracking
 - Continuous integration
-
----
-
-### Git Repository
-
-http://github.com/PDP-10/its
+- http://github.com/PDP-10/its
 
 ---
 
