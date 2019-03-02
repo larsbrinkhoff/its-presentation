@@ -60,7 +60,7 @@ Lars Brinkhoff
 
 ### Before ITS
 
-- AI Lab 1959
+- AI group 1959
 - CTSS 1961-1963
 - Project MAC 1963
 - Multics 1964-1967
@@ -72,10 +72,10 @@ Lars Brinkhoff
 
 ### Beginnings
 
-- At the MIT AI lab
-- First version 1967
-- For the PDP-6 computer
+- At the MIT AI group
+- For their PDP-6 computer
 - Grew from singe-user tools
+- First version 1967
 - Alternative to CTSS and Multics
 
 <img src="pics/PDP-6.jpg" width="35%"></img>
