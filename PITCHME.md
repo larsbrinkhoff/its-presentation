@@ -161,7 +161,26 @@ Lars Brinkhoff
 <li>Emacs</li>
 <li>Scheme</li>
 <li>SHRDLU</li>
+</ul>
+</div>
+
+<div style="float: right; width: 50%;">
+<img src="pics/shrdlu.jpg" width="45%"><br>
+</div>
+
+---
+
+### Games
+
+<div style="float: left; width: 50%;">
+<ul>
+<li>Spacewar!</li>
+<li>MacHack VI</li>
+<li>Flight simulator</li>
+<li>Adventure</li>
 <li>Maze War</li>
+<li>Dazzle Dart</li>
+<li>Moonlander</li>
 <li>Zork</li>
 </ul>
 <br>
@@ -169,15 +188,17 @@ Lars Brinkhoff
 </div>
 
 <div style="float: right; width: 50%;">
-<img src="pics/MazeWar.jpg" width="45%"><br>
-<img src="pics/shrdlu.jpg" width="45%"><br>
+<img src="pics/MazeWar.jpg" width="40%"></img>
+<img src="pics/machack.jpeg" width="40%"></img><br>
+<img src="pics/dazzle.png" width="40%"></img>
+<img src="pics/flight.png" width="50%"></img>
 </div>
 
 ---
 
 ### Imported Software
 
-- Emulator for TOPS-100 and WAITS system calls.
+- Emulator for TOPS-10 and WAITS system calls.
 - Collaboration between PDP-10 sites.
 - TOPS-10: MACRO, LINK, CROSS, Fortran.
 - WAITS: FAIL, SPELL, SUDS, TeX, PUB, GEOMED.
