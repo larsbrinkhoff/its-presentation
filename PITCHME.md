@@ -114,6 +114,30 @@ Lars Brinkhoff
 
 ---
 
+### Research
+
+<div style="float: left; width: 60%;">
+<ul>
+<li>Robotics</li>
+<li>Computer Vision</li>
+<li>Logo</li>
+<li>Lisp, Scheme</li>
+<li>Lisp Machine</li>
+<li>Macsyma</li>
+<li>Programming Technology</li>
+<li>Networking</li>
+</ul>
+</div>
+
+<div style="float: right; width: 40%;">
+<img src="pics/robot.jpg" width="45%"></img>
+<img src="pics/Turtle.jpg" width="45%"></img>
+<img src="pics/CADR.jpg" width="45%"></img>
+<img src="pics/IMP.jpg" width="40%"></img>
+</div>
+
+---
+
 ### Heydays
 
 - Network file system
@@ -125,6 +149,29 @@ Lars Brinkhoff
 
 <img src="pics/knight-console.jpg" width="25%"></img>
 <img src="pics/MIT-MC.jpg" width="22%"></img>
+
+---
+
+### Notable applications
+
+<div style="float: left; width: 50%;">
+<ul>
+<li>Maclisp</li>
+<li>Macsyma</li>
+<li>Emacs</li>
+<li>Scheme</li>
+<li>SHRDLU</li>
+<li>Maze War</li>
+<li>Zork</li>
+</ul>
+<br>
+<img src="pics/Zork.jpg" width="50%">
+</div>
+
+<div style="float: right; width: 50%;">
+<img src="pics/MazeWar.jpg" width="45%"><br>
+<img src="pics/shrdlu.jpg" width="45%"><br>
+</div>
 
 ---
 
@@ -151,32 +198,6 @@ Lars Brinkhoff
 
 ---
 
-### Research
-
-<div style="float: left; width: 60%;">
-<ul>
-<li>Robotics</li>
-<li>Computer Vision</li>
-<li>Logo</li>
-<li>Lisp, Scheme</li>
-<li>Lisp Machine</li>
-<li>Macsyma</li>
-<li>Dynamic Modeling</li>
-<li>Computer Graphics</li>
-<li>Programming Technology</li>
-<li>Networking</li>
-</ul>
-</div>
-
-<div style="float: right; width: 40%;">
-<img src="pics/robot.jpg" width="45%"></img>
-<img src="pics/Turtle.jpg" width="45%"></img>
-<img src="pics/CADR.jpg" width="45%"></img>
-<img src="pics/IMP.jpg" width="40%"></img>
-</div>
-
----
-
 ### Features and Limitations
 
 - PCLSR, PC lusering
@@ -199,29 +220,6 @@ Lars Brinkhoff
 - Shut down 1990
 
 <img src="pics/AI-KS10.jpg" width="45%">
-
----
-
-### Notable applications
-
-<div style="float: left; width: 50%;">
-<ul>
-<li>Maclisp</li>
-<li>Macsyma</li>
-<li>Emacs</li>
-<li>Scheme</li>
-<li>SHRDLU</li>
-<li>Maze War</li>
-<li>Zork</li>
-</ul>
-<br>
-<img src="pics/Zork.jpg" width="50%">
-</div>
-
-<div style="float: right; width: 50%;">
-<img src="pics/MazeWar.jpg" width="45%"><br>
-<img src="pics/shrdlu.jpg" width="45%"><br>
-</div>
 
 ---
 
