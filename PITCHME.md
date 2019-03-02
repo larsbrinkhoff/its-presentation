@@ -175,6 +175,19 @@ Lars Brinkhoff
 
 ---
 
+### Imported Software
+
+- Emulator for TOPS-100 and WAITS system calls.
+- Collaboration between PDP-10 sites.
+- TOPS-10: MACRO, LINK, CROSS, Fortran.
+- WAITS: FAIL, SPELL, SUDS, TeX, PUB, GEOMED.
+- Games: ADVENT, Star Trek.
+- ITS really quite compatible!
+
+<img src="pics/geomed.png" width="35%"></img>
+
+---
+
 ### Multiprocessing
 
 <div style="float: left; width: 60%;">
