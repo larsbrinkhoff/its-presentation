@@ -216,7 +216,7 @@ Lars Brinkhoff
 
 - PDP-6s and KA10s scrapped
 - KS10 1985
-- KL10 shipped to Stacken 1988
+- KL10 shipped to Sweden 1988
 - Shut down 1990
 
 <img src="pics/AI-KS10.jpg" width="45%">
