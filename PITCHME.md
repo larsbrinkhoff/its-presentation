@@ -263,7 +263,7 @@ Lars Brinkhoff
 - Make file system on disk
 - Load ITS and a few binary programs
 - Reboot into ITS
-- Build system and >200 programs from source code
+- Build system and >300 programs from source code
 - Many bug fixes
 - Issue tracking
 - Continuous integration
