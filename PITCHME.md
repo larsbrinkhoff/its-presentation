@@ -110,6 +110,7 @@ Lars Brinkhoff
 - Two more machines: DM and ML
 
 <img src="pics/MIT-DMS.jpg" width="40%"></img>
+<img src="pics/MIT-ML.jpg" width="35%"></img>
 
 ---
 
