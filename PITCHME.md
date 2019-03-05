@@ -37,7 +37,7 @@ Lars Brinkhoff
 
 - ITS is an operating system for PDP-10 computers.
 - Created at MIT in 1967, kept running until 1990.
-- Known for its openness and availability of source code.
+- Known for its openness and lack of security.
 
 <img src="pics/MIT.jpg" width="40%"></img>
 
@@ -45,11 +45,11 @@ Lars Brinkhoff
 
 ### PDP-10 family
 
+- Made by Digital Equipment Corporation
 - Lifespan 1964-1988
 - Generations: PDP-6, KA10, KI10, KL10, KS10
-- 36-bit word length
-- 18-bit address space
 - Designed with Lisp in mind
+- 36-bit word length, 18-bit address space
 - Large orthogonal instruction set
 - Pleasant assembly language
 - Popular on the ARPANET
@@ -72,7 +72,7 @@ Lars Brinkhoff
 
 ### Beginnings
 
-- At the MIT AI group
+- At the Project MAC AI group
 - For their PDP-6 computer
 - Grew from singe-user tools
 - First version 1967
@@ -89,7 +89,7 @@ Lars Brinkhoff
 <li>ITS was written by hackers</li>
 <li>Designed to get work done, not an academic exercise</li>
 <li>Highly interactive</li>
-<li>No passwords</li>
+<li>No passwords (until later)</li>
 <li>No file permissions</li>
 <li>Source code for everything</li>
 <li>Guests allowed</li>
@@ -104,7 +104,7 @@ Lars Brinkhoff
 
 ### Early Development
 
-- PDP-10 1968
+- AI PDP-10 1968
 - Virtual memory 1970
 - ARPANET 1971
 - Two more machines: DM and ML
@@ -118,6 +118,7 @@ Lars Brinkhoff
 
 <div style="float: left; width: 60%;">
 <ul>
+<li>AI</li>
 <li>Robotics</li>
 <li>Computer Vision</li>
 <li>Logo</li>
@@ -267,9 +268,9 @@ Lars Brinkhoff
 <li>Emacs Lisp, Common Lisp</li>
 <li>Unexec</li>
 <li>Info</li>
+<li>Meta key (from SAIL)</li>
 <li>Unix job control</li>
-<li>"More" utility</li>
-<li>Meta key</li>
+<li>And --More--</li>
 </ul>
 </div>
 
