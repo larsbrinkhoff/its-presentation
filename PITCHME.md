@@ -255,7 +255,7 @@ Lars Brinkhoff
 - KL10 shipped to Sweden 1988
 - Shut down 1990
 
-<img src="pics/AI-KS10.jpg" width="45%">
+<img src="pics/AI-KS10.jpg" width="25%">
 
 ---
 
