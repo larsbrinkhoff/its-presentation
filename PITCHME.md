@@ -290,6 +290,19 @@ Lars Brinkhoff
 
 ---
 
+- Alan Bawden: Ported ITS to KS10 in 1984
+- Ken Harrenstien: Ran ITS in simulation 1992
+- Craig Lennox: Installed ITS on SIMH
+- Paul Svensson: Online ITS
+- Björn Victor: Chaosnet
+
+- Eric Swensson: Lisp, Macsyma, etc
+- Brad Parker: 
+- Adam Sampson: Muddle
+- Angelo Papenhoff: TV-11
+
+---
+
 ### Restoration
 
 - Boot off magtape
