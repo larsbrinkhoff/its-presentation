@@ -78,7 +78,8 @@ Lars Brinkhoff
 - First version 1967
 - Alternative to CTSS and Multics
 
-<img src="pics/PDP-6.jpg" width="35%"></img>
+<img src="pics/PDP-6.jpg" width="30%"></img>
+<img src="pics/Multics.jpg" width="25%"></img>
 
 ---
 
