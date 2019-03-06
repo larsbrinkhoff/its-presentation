@@ -39,7 +39,8 @@ Lars Brinkhoff
 - Created at MIT in 1967, kept running until 1990.
 - Known for its openness and lack of security.
 
-<img src="pics/MIT.jpg" width="40%"></img>
+<img src="pics/MIT.jpg" width="30%"></img>
+<img src="pics/TechSquare.jpg" width="20%"></img>
 
 ---
 
