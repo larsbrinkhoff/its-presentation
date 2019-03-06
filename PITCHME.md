@@ -109,8 +109,9 @@ Lars Brinkhoff
 - ARPANET 1971
 - Two more machines: DM and ML
 
-<img src="pics/MIT-DMS.jpg" width="40%"></img>
-<img src="pics/MIT-ML.jpg" width="35%"></img>
+<img src="pics/MIT-AI.png" width="25%"></img>
+<img src="pics/MIT-DMS.jpg" width="30%"></img>
+<img src="pics/MIT-ML.jpg" width="28%"></img>
 
 ---
 
