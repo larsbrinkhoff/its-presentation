@@ -156,7 +156,7 @@ Lars Brinkhoff
 
 ---
 
-### Notable applications
+### Notable programs
 
 <div style="float: left; width: 50%;">
 <ul>
@@ -165,6 +165,7 @@ Lars Brinkhoff
 <li>Emacs</li>
 <li>Scheme</li>
 <li>SHRDLU</li>
+<li>Muddle</li>
 </ul>
 </div>
 
