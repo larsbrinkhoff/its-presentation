@@ -296,6 +296,24 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/Emacs.png" width="40%"><br>
 <img src="pics/Meta.jpg" width="40%"><br>
 </div>
+
+---
+
+### IN THE MEDIA
+
+<div style="float: left; width: 60%;">
+<ul>
+<li><i>Hackers</i>,<br>book by Steven Levy<br>&nbsp;</li>
+<li><i>Hacker's Dictionary</i>,<br>book by Guy Steele<br>&nbsp;</li>
+<li><i>Swordfish</i>,<br>movie by Skip Woods<br>&nbsp;</li>
+</ul>
+</div>
+
+<div style="float: right; width: 40%;">
+<img src="pics/Swordfish1.png" width="90%"><br>
+<img src="pics/Swordfish2.png" width="90%"><br>
+</div>
+
 ---
 
 ### A NEW HOPE
