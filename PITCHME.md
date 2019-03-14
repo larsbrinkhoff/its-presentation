@@ -66,7 +66,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - Pleasant assembly language
 - Popular on the ARPANET
 
-<img src="pics/PDP-1040.jpg" width="30%"></img>
+<img src="pics/PDP-1040.jpg" width="28%"></img>
 
 ---
 
@@ -90,7 +90,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - First version 1967
 - Alternative to CTSS and Multics
 
-<img src="pics/PDP-6.jpg" width="30%"></img>
+<img src="pics/PDP-6.jpg" width="31%"></img>
 <img src="pics/Multics.jpg" width="25%"></img>
 
 ---
@@ -163,13 +163,13 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - TCP/IP 1982
 
 <img src="pics/knight-console.jpg" width="25%"></img>
-<img src="pics/MIT-MC.jpg" width="22%"></img>
+<img src="pics/MIT-MC.jpg" width="21%"></img>
 
 ---
 
 ### Notable programs
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 40%;">
 <ul>
 <li>Maclisp</li>
 <li>Macsyma</li>
@@ -180,8 +180,8 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 </ul>
 </div>
 
-<div style="float: right; width: 50%;">
-<img src="pics/shrdlu.jpg" width="45%"><br>
+<div style="float: right; width: 60%;">
+<img src="pics/shrdlu.jpg" width="70%"><br>
 </div>
 
 ---
@@ -194,21 +194,23 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <li>MacHack VI</li>
 <li>Flight simulator</li>
 <li>Adventure</li>
+</ul>
+</div>
+
+<div style="float: right; width: 50%;">
+<ul>
 <li>Maze War</li>
 <li>Dazzle Dart</li>
 <li>Moonlander</li>
 <li>Zork</li>
 </ul>
-<br>
-<img src="pics/Zork.jpg" width="50%">
 </div>
 
-<div style="float: right; width: 50%;">
-<img src="pics/MazeWar.jpg" width="40%"></img>
-<img src="pics/machack.jpeg" width="40%"></img><br>
-<img src="pics/dazzle.png" width="40%"></img>
-<img src="pics/flight.png" width="50%"></img>
-</div>
+<img src="pics/machack.jpeg" width="15%"></img>
+<img src="pics/flight.png" width="16%"></img>
+<img src="pics/MazeWar.jpg" width="12%"></img>
+<img src="pics/dazzle.png" width="16%"></img>
+<img src="pics/Zork.jpg" width="25%"></img>
 
 ---
 
@@ -216,12 +218,11 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 - Emulator for TOPS-10 and WAITS system calls.
 - Collaboration between PDP-10 sites.
-- TOPS-10: MACRO, LINK, CROSS, Fortran.
-- WAITS: FAIL, SPELL, SUDS, TeX, PUB, GEOMED.
+- DEC: MACRO, LINK, CROSS, Fortran.
+- SAIL: FAIL, SPELL, SUDS, TeX, PUB, GEOMED.
 - CMU: Scribe.
-- ITS really quite compatible!
 
-<img src="pics/geomed.png" width="30%"></img>
+<img src="pics/geomed.png" width="27%"></img>
 <img src="pics/advent.png" width="30%"></img>
 
 ---
@@ -270,7 +271,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - KL10 shipped to Sweden 1988
 - Shut down 1990
 
-<img src="pics/AI-KS10.jpg" width="25%">
+<img src="pics/AI-KS10.jpg" width="23%">
 
 ---
 
