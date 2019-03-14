@@ -21,6 +21,17 @@ Lars Brinkhoff
 
 ---
 
+### Buzzwords
+
+<br>
+Logo&nbsp;&nbsp;&nbsp;&nbsp;Lisp&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;Yacc<br>
+&nbsp;&nbsp;Zork&nbsp;&nbsp;&nbsp;&nbsp;Videogames&nbsp;&nbsp;&nbsp;&nbsp;Chess<br>
+Typesetting&nbsp;&nbsp;&nbsp;&nbsp;AI&nbsp;&nbsp;&nbsp;&nbsp;Robotics<br>
+Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&nbsp;&nbsp;&nbsp;CAD<br>
+&nbsp;&nbsp;ARPANET&nbsp;&nbsp;&nbsp;&nbsp;SAIL&nbsp;&nbsp;&nbsp;&nbsp;BBN&nbsp;&nbsp;&nbsp;&nbsp;DEC
+
+---
+
 ### WHO AM I?
 
 - Started with BASIC, then 68000 assembler
