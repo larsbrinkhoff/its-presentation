@@ -324,14 +324,14 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ### Demo
 
-- Booting
 - DSKDMP
-- DDT
+- MLIFE
 - Starting ITS
-- Logging in
 - Emacs
-- Info
-- Shutting down
+- Midas
+- DDT
+- 11LOGO
+- Macsyma
 
 ---
 
