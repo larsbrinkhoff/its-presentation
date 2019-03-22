@@ -282,6 +282,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <li>GNU project</li>
 <li>Emacs</li>
 <li>Info</li>
+<li>WHOIS</li>
 <li>Emacs Lisp, Common Lisp</li>
 <li>Meta key (from SAIL)</li>
 <li>Unix job control</li>
