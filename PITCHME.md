@@ -55,6 +55,31 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
+### PDP
+
+Programmed Data Processor
+
+<div style="float: left; width: 70;">
+<ul>
+<li>PDP-1 1959, one's complement</li>
+<li>PDP-4 1962, 18 bit</li>
+<li>PDP-5 1963, 12 bit</li>
+<li>PDP-6 1965, 36 bit</li>
+<li>PDP-7 1965, 18 bit</li>
+<li>PDP-8 1965, 12 bit</li>
+<li>PDP-9 1966, 18 bit</li>
+<li>PDP-10 1967, 36 bit</li>
+<li>PDP-11 1970, 16 bit</li>
+</ul>
+</div>
+
+<div style="float: right; width: 30%;">
+<img src="pics/PDP-7.jpg" width="100%"></img>
+<img src="pics/PDP-8.jpg" width="100%"></img>
+</div>
+
+---
+
 ### PDP-10 family
 
 - Made by Digital Equipment Corporation
