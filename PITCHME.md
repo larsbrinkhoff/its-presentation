@@ -265,6 +265,22 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
+### OFFSPRING
+
+- SITS "Small ITS"<br>
+  For the Logo PDP-11<br>
+  Multi user timesharing, virtual memory<br>
+  Vector and raster displays
+
+- MINITS "Mini ITS"<br>
+  RTOS for PDP-11, network utility<br>
+  Routing, bridge, workstations, robot
+
+- Camexec<br>
+  Timesharing, PDP-11
+
+---
+
 ### DECLINE
 
 - PDP-6s and KA10s scrapped
