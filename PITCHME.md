@@ -32,12 +32,13 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### WHO AM I?
+### WHY DO THIS?
 
 - Started with BASIC, then 68000 assembler
 - Read about hackers as a kid
 - Binutils PDP-11 support
 - GCC PDP-10 support
+- More fun than playing games
 
 <img src="pics/vic20.jpg" width="60%"></img>
 <img src="pics/dict.jpg" width="20%"></img>
