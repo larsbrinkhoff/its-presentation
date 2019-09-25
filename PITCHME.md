@@ -10,7 +10,7 @@ Lars Brinkhoff
 
 ---
 
-### Overview
+### OVERVIEW
 
 - What is ITS?
 - History
@@ -21,7 +21,7 @@ Lars Brinkhoff
 
 ---
 
-### Buzzwords
+### BUZZWORDS
 
 <br>
 Logo&nbsp;&nbsp;&nbsp;&nbsp;Lisp&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;Yacc<br>
@@ -56,7 +56,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### PDP-10 family
+### PDP-10 FAMILY
 
 - Made by Digital Equipment Corporation
 - Lifespan 1964-1988
@@ -71,7 +71,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Before ITS
+### BEFORE ITS
 
 - AI group 1959
 - CTSS 1961-1963
@@ -83,7 +83,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Beginnings
+### BEGINNINGS
 
 - At the Project MAC AI group
 - For their PDP-6 computer
@@ -96,7 +96,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Hacker Ethic
+### HACKER ETHIC
 
 <div style="float: left; width: 60%;">
 <ul>
@@ -116,7 +116,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Early Development
+### EARLY DEVELOPMENT
 
 - AI PDP-10 1968
 - Virtual memory 1970
@@ -129,7 +129,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Research
+### RESEARCH
 
 <div style="float: left; width: 60%;">
 <ul>
@@ -154,7 +154,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Heydays
+### HEYDAYS
 
 - Network file system
 - Memory mapped raster displays
@@ -168,7 +168,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Notable programs
+### NOTABLE PROGRAMS
 
 <div style="float: left; width: 40%;">
 <ul>
@@ -187,7 +187,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Games
+### GAMES
 
 <div style="float: left; width: 50%;">
 <ul>
@@ -215,7 +215,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Imported Software
+### IMPORTED SOFTWARE
 
 - Emulator for TOPS-10 and WAITS system calls.
 - Collaboration between PDP-10 sites.
@@ -228,7 +228,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Multiprocessing
+### MULTIPROCESSING
 
 <div style="float: left; width: 60%;">
 <ul>
@@ -251,7 +251,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Features and Limitations
+### FEATURES AND LIMITATIONS
 
 - PCLSR, PC lusering
 - Processes & processors available as files
@@ -265,7 +265,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Decline
+### DECLINE
 
 - PDP-6s and KA10s scrapped
 - KS10 1985
@@ -276,7 +276,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Legacy
+### LEGACY
 
 <div style="float: left; width: 60%;">
 <ul>
@@ -298,7 +298,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 </div>
 ---
 
-### A New Hope
+### A NEW HOPE
 
 - ITS running on an emulator 1992
 - Put on Internet 2001
@@ -310,7 +310,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Restoration
+### RESTORATION
 
 - Boot off magtape
 - Make file system on disk
@@ -324,7 +324,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---
 
-### Demo
+### DEMO
 
 - DSKDMP
 - MLIFE
