@@ -1,6 +1,4 @@
-# ITS
-
-### Incompatible Timesharing System
+#### INCOMPATIBLE TIMESHARING SYSTEM
 
 History, Development, and Restoration
 
