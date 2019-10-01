@@ -138,7 +138,6 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <li>Lisp, Scheme</li>
 <li>Lisp Machine</li>
 <li>Macsyma</li>
-<li>Programming Technology</li>
 <li>Networking</li>
 </ul>
 </div>
@@ -146,8 +145,29 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <div style="float: right; width: 40%;">
 <img src="pics/robot.jpg" width="45%"></img>
 <img src="pics/Turtle.jpg" width="45%"></img>
-<img src="pics/CADR.jpg" width="45%"></img>
 <img src="pics/IMP.jpg" width="40%"></img>
+</div>
+
++++
+
+### LISP
+
+<div style="float: left; width: 85%;">
+<ul>
+<li>Invented 1958 by John McCarthy</li>
+<li>Initially for IBM 704 by Steve Russell</li>
+<li>Ported to PDP-6</li>
+<li>Maclisp for ITS</li>
+<li>Compiler competetive with Fortran</li>
+<li>Lisp machine by Greenblatt and Knight</li>
+<li>Scheme by Guy Steele</li>
+</ul>
+</div>
+
+<div style="float: right; width: 15%;">
+<img src="pics/McCarthy.png" width="100%"></img>
+<img src="pics/CADR.jpg" width="100%"></img>
+<img src="pics/GLS.png" width="100%"></img>
 </div>
 
 ---
