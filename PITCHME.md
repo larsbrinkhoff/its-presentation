@@ -390,3 +390,4 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 ---
 
 # ◊◊U
+<font size="-3">LOGOUT</font>
