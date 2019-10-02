@@ -170,6 +170,28 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/GLS.png" width="100%"></img>
 </div>
 
++++
+
+### LOGO
+
+<div style="float: left; width: 75%;">
+<font size="6.5">
+<ul>
+<li>BBN 1967 by Feurzeig, Papert, Solomon</li>
+<li>Moved to MIT 1970</li>
+<li>PDP-10 version ported to ITS</li>
+<li>New versions for PDP-11, Maclisp, Apple II...<br></li>
+<li>Developed on ITS</li>
+<li>General Turtle, Logo machine</li>
+</ul>
+</font>
+</div>
+
+<div style="float: right; width: 25%;">
+<img src="pics/Papert.jpg" width="100%"></img>
+<img src="pics/Minsky.png" width="100%"></img>
+</div>
+
 ---
 
 ### HEYDAYS
