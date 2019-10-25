@@ -6,7 +6,7 @@ Lars Brinkhoff
 
 <img src="pics/ictech.png" width="30%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### OVERVIEW
 
@@ -17,7 +17,7 @@ Lars Brinkhoff
 - Today
 - Demo
 
----
+---?image=pics/bg2.jpg
 
 ### BUZZWORDS
 
@@ -28,7 +28,7 @@ Typesetting&nbsp;&nbsp;&nbsp;&nbsp;AI&nbsp;&nbsp;&nbsp;&nbsp;Robotics<br>
 Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&nbsp;&nbsp;&nbsp;CAD<br>
 &nbsp;&nbsp;ARPANET&nbsp;&nbsp;&nbsp;&nbsp;SAIL&nbsp;&nbsp;&nbsp;&nbsp;BBN&nbsp;&nbsp;&nbsp;&nbsp;DEC
 
----
+---?image=pics/bg2.jpg
 
 ### WHY DO THIS?
 
@@ -41,7 +41,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/vic20.jpg" width="60%"></img>
 <img src="pics/dict.jpg" width="20%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### WHAT IS ITS?
 
@@ -52,7 +52,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/MIT.jpg" width="30%"></img>
 <img src="pics/TechSquare.jpg" width="20%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### PDP-10 FAMILY
 
@@ -67,7 +67,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 <img src="pics/PDP-1040.jpg" width="28%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### BEFORE ITS
 
@@ -79,7 +79,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/CTSS.jpeg" width="40%"></img>
 <img src="pics/GE645.jpg" width="43%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### BEGINNINGS
 
@@ -92,7 +92,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/PDP-6.jpg" width="31%"></img>
 <img src="pics/Multics.jpg" width="25%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### HACKER ETHIC
 
@@ -112,7 +112,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/RMS.jpg" width="100%"></img>
 </div>
 
----
+---?image=pics/bg2.jpg
 
 ### EARLY DEVELOPMENT
 
@@ -125,7 +125,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/MIT-DMS.jpg" width="30%"></img>
 <img src="pics/MIT-ML.jpg" width="28%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### RESEARCH
 
@@ -148,7 +148,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/IMP.jpg" width="40%"></img>
 </div>
 
-+++
++++?image=pics/bg2.jpg
 
 ### LISP
 
@@ -170,7 +170,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/GLS.png" width="100%"></img>
 </div>
 
-+++
++++?image=pics/bg2.jpg
 
 ### LOGO
 
@@ -192,7 +192,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/Minsky.png" width="100%"></img>
 </div>
 
----
+---?image=pics/bg2.jpg
 
 ### HEYDAYS
 
@@ -206,7 +206,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/knight-console.jpg" width="25%"></img>
 <img src="pics/MIT-MC.jpg" width="21%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### NOTABLE PROGRAMS
 
@@ -225,7 +225,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/shrdlu.jpg" width="70%"><br>
 </div>
 
----
+---?image=pics/bg2.jpg
 
 ### GAMES
 
@@ -253,7 +253,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/dazzle.png" width="16%"></img>
 <img src="pics/Zork.jpg" width="25%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### IMPORTED SOFTWARE
 
@@ -266,7 +266,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/geomed.png" width="27%"></img>
 <img src="pics/advent.png" width="30%"></img>
 
----
+---?image=pics/bg2.jpg
 
 ### MULTIPROCESSING
 
@@ -289,7 +289,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/Imlac.jpg" width="45%"></img>
 </div>
 
----
+---?image=pics/bg2.jpg
 
 ### FEATURES AND LIMITATIONS
 
@@ -303,7 +303,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - Just one level of directories
 - File names 6+6 characters
 
----
+---?image=pics/bg2.jpg
 
 ### OFFSPRING
 
@@ -319,7 +319,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - Camexec<br>
   Timesharing, PDP-11
 
----
+---?image=pics/bg2.jpg
 
 ### DECLINE
 
@@ -330,7 +330,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 <img src="pics/AI-KS10.jpg" width="23%">
 
----
+---?image=pics/bg2.jpg
 
 ### LEGACY
 
@@ -353,7 +353,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/Meta.jpg" width="40%"><br>
 </div>
 
----
+---?image=pics/bg2.jpg
 
 ### IN THE MEDIA
 
@@ -370,7 +370,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/Swordfish2.png" width="90%"><br>
 </div>
 
----
+---?image=pics/bg2.jpg
 
 ### A NEW HOPE
 
@@ -382,7 +382,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 <img src="pics/pdp10x.jpg" width="25%">
 
----
+---?image=pics/bg2.jpg
 
 ### RESTORATION
 
@@ -396,7 +396,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - Continuous integration
 - http://github.com/PDP-10/its
 
----
+---?image=pics/bg2.jpg
 
 ### DEMO
 
@@ -409,7 +409,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - 11LOGO
 - Macsyma
 
----
+---?image=pics/bg2.jpg
 
 # ◊◊U
 <font size="-3">LOGOUT</font>
