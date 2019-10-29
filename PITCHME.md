@@ -396,6 +396,15 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - Continuous integration
 - http://github.com/PDP-10/its
 
++++?image=pics/bg2.jpg
+
+### LIVING COMPUTERS
+
+- Made a disk image for their KS10
+- Installed remotely on a disk emulator
+- It's now running at the museum
+- Available from Internet
+
 ---?image=pics/bg2.jpg
 
 ### DEMO
