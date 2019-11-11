@@ -413,10 +413,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - MLIFE
 - Starting ITS
 - Emacs
-- Midas
-- DDT
 - 11LOGO
-- Macsyma
 
 ---?image=pics/bg2.jpg
 
