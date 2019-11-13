@@ -253,7 +253,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/dazzle.png" width="16%"></img>
 <img src="pics/Zork.jpg" width="25%"></img>
 
----?image=pics/bg2.jpg
+<!--
 
 ### IMPORTED SOFTWARE
 
@@ -265,6 +265,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 <img src="pics/geomed.png" width="27%"></img>
 <img src="pics/advent.png" width="30%"></img>
+-->
 
 ---?image=pics/bg2.jpg
 
