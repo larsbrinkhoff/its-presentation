@@ -422,9 +422,10 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 ### DEMO
 
 - DSKDMP
-- MLIFE
+- MUNCH
 - Starting ITS
 - Emacs
+- LISP
 - 11LOGO
 
 ---?image=pics/bg2.jpg
