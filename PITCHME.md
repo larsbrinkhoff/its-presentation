@@ -384,17 +384,28 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---?image=pics/bg2.jpg
 
-### RESTORATION
+### REBUILD
 
 - Boot off magtape
 - Make file system on disk
 - Load ITS and a few binary programs
 - Reboot into ITS
-- Build system and >300 programs from source code
+- Build system and >300 programs
 - Many bug fixes
 - Issue tracking
 - Continuous integration
 - http://github.com/PDP-10/its
+
++++?image=pics/bg2.jpg
+
+### RESTORE
+
+- Search through files on tapes
+- Find interesting programs 
+- Build from source code
+- Debug
+
+<img src="pics/label.jpg" width="30%"></img>
 
 +++?image=pics/bg2.jpg
 
