@@ -137,6 +137,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <li>Logo</li>
 <li>Lisp, Scheme</li>
 <li>Lisp Machine</li>
+<li>CLU</li>
 <li>Macsyma</li>
 <li>Networking</li>
 </ul>
@@ -191,6 +192,19 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <img src="pics/Papert.jpg" width="100%"></img>
 <img src="pics/Minsky.png" width="100%"></img>
 </div>
+
++++?image=pics/bg2.jpg
+
+### CLU
+
+- Cluster
+- Data abstraction
+- Exceptions
+- Iterators
+- Parametric types
+- Influenced C++, Perl, Java, Ruby, ...
+
+<img src="pics/Liskov.jpg" width="25%"></img>
 
 ---?image=pics/bg2.jpg
 
