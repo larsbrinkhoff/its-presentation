@@ -137,6 +137,7 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <li>Logo</li>
 <li>Lisp, Scheme</li>
 <li>Lisp Machine</li>
+<li>Muddle</li>
 <li>CLU</li>
 <li>Macsyma</li>
 <li>Networking</li>
@@ -195,6 +196,16 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 +++?image=pics/bg2.jpg
 
+### MUDDLE
+
+- Intended as an update of Lisp.
+- Used exclusively by the Dynamic Modeling group.
+- Zork was written in Muddle.
+- Infocom, text adventure boom.
+- Bootstrap CLU.
+
++++?image=pics/bg2.jpg
+
 ### CLU
 
 - Cluster
@@ -231,7 +242,6 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 <li>Emacs</li>
 <li>Scheme</li>
 <li>SHRDLU</li>
-<li>Muddle</li>
 </ul>
 </div>
 
