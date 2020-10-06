@@ -303,6 +303,7 @@ Lars Brinkhoff
 <li>CHEOPS, chess machine</li>
 <li>GT40, vector display</li>
 <li>Imlac, vector display</li>
+<li>TT2500, Logo display</li>
 <li>Tools and software</li>
 </ul>
 </div>
@@ -311,6 +312,7 @@ Lars Brinkhoff
 <img src="pics/PDP-11.jpg" width="45%"></img>
 <img src="pics/GT40.jpg" width="45%"></img>
 <img src="pics/Imlac.jpg" width="45%"></img>
+<img src="pics/TT2500.png" width="45%"></img>
 </div>
 
 ---?image=pics/bg2.jpg
