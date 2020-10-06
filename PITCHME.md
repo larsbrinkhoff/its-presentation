@@ -361,6 +361,17 @@ Lars Brinkhoff
 <img src="pics/Meta.jpg" width="40%"><br>
 </div>
 
++++?image=pics/bg2.jpg
+
+### GNU PROJECT
+
+- Richard Stallman
+- Inspired by ITS values
+- Free software
+- Dover printer
+
+<img src="pics/Dover.jpg" width="40%">
+
 ---?image=pics/bg2.jpg
 
 ### IN THE MEDIA
