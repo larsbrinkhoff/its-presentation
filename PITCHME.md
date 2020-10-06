@@ -86,7 +86,7 @@ Lars Brinkhoff
 
 <div style="float: left; width: 60%;">
 <ul>
-<li>ITS was written by hackers</li>
+<li>ITS was written by "hackers"</li>
 <li>Designed to get work done, not an academic exercise</li>
 <li>Highly interactive</li>
 <li>No passwords (until later)</li>
@@ -159,6 +159,17 @@ Lars Brinkhoff
 <img src="pics/CADR.jpg" width="100%"></img>
 <img src="pics/GLS.png" width="100%"></img>
 </div>
+
++++?image=pics/bg2.jpg
+
+### MACSYMA
+
+- Joel Moses
+- Used by researchers over the ARPANET
+- Funded Maclisp development
+- Two ITS machines
+
+<img src="pics/Moses.jpg" width="50%"></img>
 
 +++?image=pics/bg2.jpg
 
