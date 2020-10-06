@@ -15,18 +15,6 @@ Lars Brinkhoff
 - Values
 - Features
 - Today
-- Demo
-
----?image=pics/bg2.jpg
-
-### BUZZWORDS
-
-<br>
-Logo&nbsp;&nbsp;&nbsp;&nbsp;Lisp&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;Yacc<br>
-&nbsp;&nbsp;Zork&nbsp;&nbsp;&nbsp;&nbsp;Videogames&nbsp;&nbsp;&nbsp;&nbsp;Chess<br>
-Typesetting&nbsp;&nbsp;&nbsp;&nbsp;AI&nbsp;&nbsp;&nbsp;&nbsp;Robotics<br>
-Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&nbsp;&nbsp;&nbsp;CAD<br>
-&nbsp;&nbsp;ARPANET&nbsp;&nbsp;&nbsp;&nbsp;SAIL&nbsp;&nbsp;&nbsp;&nbsp;BBN&nbsp;&nbsp;&nbsp;&nbsp;DEC
 
 ---?image=pics/bg2.jpg
 
@@ -330,22 +318,6 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 
 ---?image=pics/bg2.jpg
 
-### OFFSPRING
-
-- SITS "Small ITS"<br>
-  For the Logo PDP-11<br>
-  Multi user timesharing, virtual memory<br>
-  Vector and raster displays
-
-- MINITS "Mini ITS"<br>
-  RTOS for PDP-11, network utility<br>
-  Routing, bridge, workstations, robot
-
-- Camexec<br>
-  Timesharing, PDP-11
-
----?image=pics/bg2.jpg
-
 ### DECLINE
 
 - PDP-6s and KA10s scrapped
@@ -440,19 +412,3 @@ Emacs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macsyma&nbsp;&nbsp;&nbsp;&nbsp;Multics&nbsp;&
 - Installed remotely on a disk emulator
 - It's now running at the museum
 - Available from Internet
-
----?image=pics/bg2.jpg
-
-### DEMO
-
-- DSKDMP
-- MUNCH
-- Starting ITS
-- Emacs
-- LISP
-- 11LOGO
-
----?image=pics/bg2.jpg
-
-# ◊◊U
-<font size="-3">LOGOUT</font>
