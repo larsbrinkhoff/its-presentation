@@ -340,6 +340,18 @@ Lars Brinkhoff
 
 <img src="pics/AI-KS10.jpg" width="23%">
 
++++?image=pics/bg2.jpg
+
+### TIMESTAMPS
+
+<img src="pics/timestamps.png">
+
++++?image=pics/bg2.jpg
+
+### VERSIONS
+
+<img src="pics/versions.png">
+
 ---?image=pics/bg2.jpg
 
 ### LEGACY
