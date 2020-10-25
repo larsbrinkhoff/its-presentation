@@ -4,9 +4,7 @@ History, Development, and Restoration
 
 Lars Brinkhoff
 
-<img src="pics/ictech.png" width="30%"></img>
-
----?image=pics/bg2.jpg
+---
 
 ### OVERVIEW
 
@@ -16,7 +14,7 @@ Lars Brinkhoff
 - Features
 - Today
 
----?image=pics/bg2.jpg
+---
 
 ### WHY DO THIS?
 
@@ -29,7 +27,7 @@ Lars Brinkhoff
 <img src="pics/vic20.jpg" width="60%"></img>
 <img src="pics/dict.jpg" width="20%"></img>
 
----?image=pics/bg2.jpg
+---
 
 ### WHAT IS ITS?
 
@@ -40,7 +38,7 @@ Lars Brinkhoff
 <img src="pics/MIT.jpg" width="30%"></img>
 <img src="pics/TechSquare.jpg" width="20%"></img>
 
----?image=pics/bg2.jpg
+---
 
 ### PDP-10 FAMILY
 
@@ -55,7 +53,7 @@ Lars Brinkhoff
 
 <img src="pics/PDP-1040.jpg" width="28%"></img>
 
----?image=pics/bg2.jpg
+---
 
 ### BEFORE ITS
 
@@ -67,7 +65,7 @@ Lars Brinkhoff
 <img src="pics/CTSS.jpeg" width="40%"></img>
 <img src="pics/GE645.jpg" width="43%"></img>
 
----?image=pics/bg2.jpg
+---
 
 ### BEGINNINGS
 
@@ -80,7 +78,7 @@ Lars Brinkhoff
 <img src="pics/PDP-6.jpg" width="31%"></img>
 <img src="pics/Multics.jpg" width="25%"></img>
 
----?image=pics/bg2.jpg
+---
 
 ### HACKER ETHIC
 
@@ -100,7 +98,7 @@ Lars Brinkhoff
 <img src="pics/RMS.jpg" width="100%"></img>
 </div>
 
----?image=pics/bg2.jpg
+---
 
 ### EARLY DEVELOPMENT
 
@@ -113,7 +111,7 @@ Lars Brinkhoff
 <img src="pics/MIT-DMS.jpg" width="30%"></img>
 <img src="pics/MIT-ML.jpg" width="28%"></img>
 
----?image=pics/bg2.jpg
+---
 
 ### RESEARCH
 
@@ -138,7 +136,7 @@ Lars Brinkhoff
 <img src="pics/IMP.jpg" width="40%"></img>
 </div>
 
-+++?image=pics/bg2.jpg
++++
 
 ### LISP
 
@@ -160,7 +158,7 @@ Lars Brinkhoff
 <img src="pics/GLS.png" width="100%"></img>
 </div>
 
-+++?image=pics/bg2.jpg
++++
 
 ### MACSYMA
 
@@ -171,7 +169,7 @@ Lars Brinkhoff
 
 <img src="pics/Moses.jpg" width="50%"></img>
 
-+++?image=pics/bg2.jpg
++++
 
 ### LOGO
 
@@ -193,7 +191,7 @@ Lars Brinkhoff
 <img src="pics/Minsky.png" width="100%"></img>
 </div>
 
-+++?image=pics/bg2.jpg
++++
 
 ### MUDDLE
 
@@ -203,7 +201,7 @@ Lars Brinkhoff
 - Infocom, text adventure boom.
 - Bootstrap CLU.
 
-+++?image=pics/bg2.jpg
++++
 
 ### CLU
 
@@ -216,7 +214,7 @@ Lars Brinkhoff
 
 <img src="pics/Liskov.jpg" width="25%"></img>
 
----?image=pics/bg2.jpg
+---
 
 ### HEYDAYS
 
@@ -230,7 +228,7 @@ Lars Brinkhoff
 <img src="pics/knight-console.jpg" width="25%"></img>
 <img src="pics/MIT-MC.jpg" width="21%"></img>
 
----?image=pics/bg2.jpg
+---
 
 ### NOTABLE PROGRAMS
 
@@ -248,7 +246,7 @@ Lars Brinkhoff
 <img src="pics/shrdlu.jpg" width="70%"><br>
 </div>
 
----?image=pics/bg2.jpg
+---
 
 ### GAMES
 
@@ -290,7 +288,7 @@ Lars Brinkhoff
 <img src="pics/advent.png" width="30%"></img>
 -->
 
----?image=pics/bg2.jpg
+---
 
 ### MULTIPROCESSING
 
@@ -315,7 +313,7 @@ Lars Brinkhoff
 <img src="pics/TT2500.png" width="45%"></img>
 </div>
 
----?image=pics/bg2.jpg
+---
 
 ### FEATURES AND LIMITATIONS
 
@@ -329,7 +327,7 @@ Lars Brinkhoff
 - Just one level of directories
 - File names 6+6 characters
 
----?image=pics/bg2.jpg
+---
 
 ### DECLINE
 
@@ -340,19 +338,19 @@ Lars Brinkhoff
 
 <img src="pics/AI-KS10.jpg" width="23%">
 
-+++?image=pics/bg2.jpg
++++
 
 ### TIMESTAMPS
 
 <img src="pics/timestamps.png">
 
-+++?image=pics/bg2.jpg
++++
 
 ### VERSIONS
 
 <img src="pics/versions.png">
 
----?image=pics/bg2.jpg
+---
 
 ### LEGACY
 
@@ -375,7 +373,7 @@ Lars Brinkhoff
 <img src="pics/Meta.jpg" width="40%"><br>
 </div>
 
-+++?image=pics/bg2.jpg
++++
 
 ### GNU PROJECT
 
@@ -386,7 +384,7 @@ Lars Brinkhoff
 
 <img src="pics/Dover.jpg" width="40%">
 
----?image=pics/bg2.jpg
+---
 
 ### IN THE MEDIA
 
@@ -403,7 +401,7 @@ Lars Brinkhoff
 <img src="pics/Swordfish2.png" width="90%"><br>
 </div>
 
----?image=pics/bg2.jpg
+---
 
 ### A NEW HOPE
 
@@ -415,7 +413,7 @@ Lars Brinkhoff
 
 <img src="pics/pdp10x.jpg" width="25%">
 
----?image=pics/bg2.jpg
+---
 
 ### REBUILD
 
@@ -429,7 +427,7 @@ Lars Brinkhoff
 - Continuous integration
 - http://github.com/PDP-10/its
 
-+++?image=pics/bg2.jpg
++++
 
 ### RESTORE
 
@@ -440,7 +438,7 @@ Lars Brinkhoff
 
 <img src="pics/label.jpg" width="30%"></img>
 
-+++?image=pics/bg2.jpg
++++
 
 ### LIVING COMPUTERS
 
