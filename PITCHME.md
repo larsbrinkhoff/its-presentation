@@ -171,6 +171,16 @@ Lars Brinkhoff
 
 +++
 
+### SHRDLU
+
+- Robot simulation
+- Natural language understanding
+- Planning and solving problems
+
+<img src="pics/shrdlu.jpg" width="50%">
+
++++
+
 ### LOGO
 
 <div style="float: left; width: 75%;">
@@ -227,24 +237,6 @@ Lars Brinkhoff
 
 <img src="pics/knight-console.jpg" width="25%"></img>
 <img src="pics/MIT-MC.jpg" width="21%"></img>
-
----
-
-### NOTABLE PROGRAMS
-
-<div style="float: left; width: 40%;">
-<ul>
-<li>Maclisp</li>
-<li>Macsyma</li>
-<li>Emacs</li>
-<li>Scheme</li>
-<li>SHRDLU</li>
-</ul>
-</div>
-
-<div style="float: right; width: 60%;">
-<img src="pics/shrdlu.jpg" width="70%"><br>
-</div>
 
 ---
 
