@@ -51,7 +51,7 @@ Lars Brinkhoff
 - Pleasant assembly language
 - Popular on the ARPANET
 
-<img src="pics/PDP-1040.jpg" width="28%"></img>
+<img src="pics/PDP-1040.jpg" width="45%"></img>
 
 ---
 
