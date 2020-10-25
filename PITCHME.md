@@ -20,8 +20,8 @@ Lars Brinkhoff
 
 - Started with BASIC, then 68000 assembler
 - Read about hackers as a kid
-- Binutils PDP-11 support
-- GCC PDP-10 support
+- Binutils PDP-11 support, GCC PDP-10 support
+- Historical importance
 - More fun than playing games
 
 <img src="pics/vic20.jpg" width="60%"></img>
