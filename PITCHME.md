@@ -446,3 +446,12 @@ Lars Brinkhoff
 - Installed remotely on a disk emulator
 - It's now running at the museum
 - Available from Internet
+
+---
+
+### MORE INFORMATION
+
+- <a href="http://github.com/PDP-10/its">github.com/PDP-10/its</a>
+- <a href="http://its.victor.se">its.victor.se</a>
+- <a href="http://its.pdp10.se">its.pdp10.se</a>
+- "Hackers" book
