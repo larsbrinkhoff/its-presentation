@@ -148,7 +148,7 @@ Lars Brinkhoff
 <li>Maclisp for ITS</li>
 <li>Compiler competetive with Fortran</li>
 <li>Lisp machine by Greenblatt and Knight</li>
-<li>Scheme by Guy Steele</li>
+<li>Scheme by Steele and Sussman</li>
 </ul>
 </div>
 
