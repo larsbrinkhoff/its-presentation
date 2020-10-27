@@ -432,6 +432,15 @@ Lars Brinkhoff
 
 +++
 
+### TODO
+
+- PDP-6 version of ITS
+- SHRDLU
+- Small ITS
+- Emulate more hardware
+
++++
+
 ### LIVING COMPUTERS
 
 - Made a disk image for their KS10
