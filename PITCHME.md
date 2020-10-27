@@ -16,6 +16,17 @@ Lars Brinkhoff
 
 ---
 
+### WHAT IS ITS?
+
+- ITS is an operating system for PDP-10 computers.
+- Created at MIT in 1967, kept running until 1990.
+- Known for its openness and lack of security.
+
+<img src="pics/MIT.jpg" width="30%"></img>
+<img src="pics/TechSquare.jpg" width="20%"></img>
+
+---
+
 ### WHY DO THIS?
 
 - Started with BASIC, then 68000 assembler
@@ -26,17 +37,6 @@ Lars Brinkhoff
 
 <img src="pics/vic20.jpg" width="60%"></img>
 <img src="pics/dict.jpg" width="20%"></img>
-
----
-
-### WHAT IS ITS?
-
-- ITS is an operating system for PDP-10 computers.
-- Created at MIT in 1967, kept running until 1990.
-- Known for its openness and lack of security.
-
-<img src="pics/MIT.jpg" width="30%"></img>
-<img src="pics/TechSquare.jpg" width="20%"></img>
 
 ---
 
