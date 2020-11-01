@@ -71,7 +71,7 @@ Lars Brinkhoff
 
 - At the Project MAC AI group
 - For their PDP-6 computer
-- Grew from singe-user tools
+- Grew from single-user tools
 - First version 1967
 - Alternative to CTSS and Multics
 
