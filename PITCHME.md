@@ -398,6 +398,18 @@ Swordfish, 2001<br>
 
 ---
 
+### RESTORATION
+
+- MIT backups
+- Search through files on tapes
+- Find interesting programs 
+- Build from source code
+- Debug
+
+<img src="pics/label.jpg" width="30%"></img>
+
++++
+
 ### REBUILD
 
 - Boot off magtape
@@ -412,17 +424,6 @@ Swordfish, 2001<br>
 
 +++
 
-### RESTORE
-
-- Search through files on tapes
-- Find interesting programs 
-- Build from source code
-- Debug
-
-<img src="pics/label.jpg" width="30%"></img>
-
-+++
-
 ### TODO
 
 - PDP-6 version of ITS
@@ -432,7 +433,7 @@ Swordfish, 2001<br>
 
 +++
 
-### LIVING COMPUTERS
+### LIVING COMPUTERS MUSEUM
 
 - Made a disk image for their KS10
 - Installed remotely on a disk emulator
