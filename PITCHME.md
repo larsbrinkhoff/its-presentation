@@ -138,9 +138,10 @@ Lars Brinkhoff
 
 +++
 
-### LISP
-
 <div style="float: left; width: 85%;">
+
+<h3>LISP</h3>
+
 <ul>
 <li>Invented 1958 by John McCarthy</li>
 <li>Initially for IBM 704 by Steve Russell</li>
@@ -181,9 +182,10 @@ Lars Brinkhoff
 
 +++
 
-### LOGO
-
 <div style="float: left; width: 75%;">
+
+<h3>LOGO</h3>
+
 <font size="6.5">
 <ul>
 <li>BBN 1967 by Feurzeig, Papert, Solomon</li>
@@ -375,14 +377,6 @@ Lars Brinkhoff
 - Dover printer
 
 <img src="pics/Dover.jpg" width="40%">
-
----
-
-### AT THE MOVIES
-
-Swordfish, 2001<br>
-<img src="pics/Swordfish1.png" width="40%"><br>
-<img src="pics/Swordfish2.png" width="40%">
 
 ---
 
