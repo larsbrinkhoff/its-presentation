@@ -6,3 +6,4 @@ Tour:
 - Gothenburg, August 2018
 - Seattle, March 2019
 - Zurich, November 2019
+- Dalby, August 2021
