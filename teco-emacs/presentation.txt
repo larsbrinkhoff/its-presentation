@@ -1,68 +1,94 @@
-THE BIRTH OF EMACS - HANDS ON DEMO
 
-Lars Brinkhoff
-ITS restoration guy
-				Why am I talking about this?
-                                Mostly demo
-
 
-Early TECO
 
-RLE PDP-1, 1962                 RLE = Research Laboratory of Electronics
-                                Page oriented editor.
-                                Mount input tape in reader.
-                                Mount blank tape in punch.
-AI PDP-1 & Type 30
-AI PDP-6, 1964
 
-Demo: TECO
-				^D to adjust text size
-                                Editing as programming
+
+	THE EVOLUTION OF TECO AND EMACS
+	 - HANDS ON DEMO
+
+	Lars Brinkhoff
+	ITS restoration guy
 
 
 
-ITS TECO
-				Explain about ITS
-Mikkelsen: ^R mode, 1972
-Stallman: macros bound to keys	Explain about macros
-TMACS, TECMAC, RMODE etc
 
-Demo: TECO			ER to read file
-                                Y yank in one page
-                                P punch
-                                Q-reg, 65UA QAI
-                                Macros, HXA MA
-Demo: RMODE			^ER to read file
 
-
 
-Early EMACS
+	Early TECO
 
-Steele, summer 1976
-?MACS
+	RLE PDP-1, 1962
+	Page oriented, for paper tapes
 
-Demo: Emacs, November 1976	^C ? for help
+	AI lab PDP-1 & Type 30
+	AI lab PDP-6, 1964
+
+	Demo: PDP-6 TECO
+	Q-regs, iteration, programming
 
 
 
-EMACS Spreads
 
-EINE, February 1977		Daniel Weinreb
-TOPS-20, 1977			Mike McMahon
-SINE, 1978			Ted Anderson
-Multics Emacs, March 1978	Bernard Greenberg
 
-
 
-Late EMACS
+	ITS TECO
 
-Demo: EMACS, 1981
-DIRED, RMAIL, INFO
+	What is ITS?
+	Mikkelsen: ^R mode, 1972
+	Stallman: macros bound to keys
+	What are macros?
+	TECMAC, TMACS, RMODE etc
 
-Demo: LEDIT			(ledit)
-				M-Z copy defun
-				C-X Z return
+	Demo: TECO		ER to read file, Y to yank
+	Demo: RMODE		^ER to read file
 
 
 
-Questions!
+
+
+
+	Early EMACS
+
+	Steele, Summer 1976
+	?MACS
+
+	Demo: Emacs, November 1976
+
+
+
+
+
+
+	EMACS Spreads
+
+	Lisp machine, February 1977	Weinreb
+	TOPS-20, 1977			McMahon
+	MagicSix, 1978			Anderson
+	Multics, March 1978		Greenberg
+	Unix, 1978			Montgomery
+
+
+
+
+
+
+	Late ITS EMACS
+
+	Demo: EMACS, 1981
+	DIRED, INFO, RMAIL
+
+	Demo: LEDIT
+
+
+
+	Demo: Gosling Emacs 264, 1983
+
+	Demo: GNU Emacs 16, 1985
+
+
+
+
+
+
+	Questions!
+
+	C-x C-c
