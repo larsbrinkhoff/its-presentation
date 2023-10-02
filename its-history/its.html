@@ -9,12 +9,18 @@
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
       body { font-family: 'Droid Serif'; }
-      h1, h2, h3 {
+      h1, h2 {
         font-family: 'Yanone Kaffeesatz';
         font-weight: normal;
+        font-size: 48px;
+      }
+      h3, h4 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+        font-size: 48px;
       }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-      .remark-slide-content { font-size: 24px; }
+      .remark-slide-content { font-size: 30px; }
     </style>
   </head>
   <body>
@@ -30,37 +36,36 @@ Lars Brinkhoff
 
 ---
 
+### WHO AM I?
+
+- Started with BASIC, then 68000 assembler
+- Read about hackers as a kid
+- Binutils PDP-11 support
+- GCC PDP-10 support
+
+<img src="pics/vic20.jpg" width="60%"></img>
+<img src="pics/dict.jpg" width="30%"></img>
+ 
+---
+
 ### OVERVIEW
 
 - What is ITS?
 - History
-- Values
-- Features
+- Characteristics
 - Today
 
 ---
 
 ### WHAT IS ITS?
 
-- ITS is an operating system for PDP-10 computers.
-- Created at MIT in 1967, kept running until 1990.
-- Known for its openness and lack of security.
+- Operating system for PDP-10 computers
+- Used at MIT 1967 - 1990
+- Known for its lack of security
+- Arpanet, Maclisp, Scheme, Zork, Emacs, Macsyma, SHRDLU, Logo, Lisp machines
 
-<img src="pics/MIT.jpg" width="30%"></img>
-<img src="pics/TechSquare.jpg" width="20%"></img>
-
----
-
-### WHY DO THIS?
-
-- Started with BASIC, then 68000 assembler
-- Read about hackers as a kid
-- Binutils PDP-11 support, GCC PDP-10 support
-- Historical importance
-- More fun than playing games
-
-<img src="pics/vic20.jpg" width="60%"></img>
-<img src="pics/dict.jpg" width="20%"></img>
+<img src="pics/MIT.jpg" width="52%"></img>
+<img src="pics/TechSquare.jpg" width="30%"></img>
 
 ---
 
@@ -69,44 +74,44 @@ Lars Brinkhoff
 - Made by Digital Equipment Corporation
 - Lifespan 1964-1988
 - Generations: PDP-6, KA10, KI10, KL10, KS10
-- Designed with Lisp in mind
 - 36-bit word length, 18-bit address space
+- Designed with Lisp in mind
 - Large orthogonal instruction set
 - Pleasant assembly language
-- Popular on the ARPANET
+- Popular on the Arpanet
 
-<img src="pics/PDP-1040.jpg" width="45%"></img>
+<img src="pics/PDP-1040.jpg" width="100%"></img>
 
 ---
 
 ### BEFORE ITS
 
-- AI group 1959
+- MIT AI group 1959
 - CTSS 1961-1963
 - Project MAC 1963
 - Multics 1964-1967
 
-<img src="pics/CTSS.jpeg" width="40%"></img>
-<img src="pics/GE645.jpg" width="43%"></img>
+<img src="pics/CTSS.jpeg" width="45%"></img>
+<img src="pics/GE645.jpg" width="48%"></img>
 
 ---
 
 ### BEGINNINGS
 
-- At the Project MAC AI group
+- MIT AI lab at Project MAC
 - For their PDP-6 computer
 - Grew from single-user tools
 - First version 1967
 - Alternative to CTSS and Multics
 
-<img src="pics/PDP-6.jpg" width="31%"></img>
-<img src="pics/Multics.jpg" width="25%"></img>
+<img src="pics/PDP-6.jpg" width="50%"></img>
+<img src="pics/Multics.jpg" width="40%"></img>
 
 ---
 
 ### HACKER ETHIC
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 70%;">
 <ul>
 <li>ITS was written by "hackers"</li>
 <li>Designed to get work done, not an academic exercise</li>
@@ -114,11 +119,12 @@ Lars Brinkhoff
 <li>No passwords (until later)</li>
 <li>No file permissions</li>
 <li>Source code for everything</li>
+<li>Do it yourself</li>
 <li>Guests allowed</li>
 </ul>
 </div>
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 30%; margin-top: 10%">
 <img src="pics/RMS.jpg" width="100%"></img>
 </div>
 
@@ -126,14 +132,30 @@ Lars Brinkhoff
 
 ### EARLY DEVELOPMENT
 
-- AI PDP-10 1968
+- AI lab PDP-10 1968
 - Virtual memory 1970
-- ARPANET 1971
-- Two more machines: DM and ML
+- Arpanet 1971
+- Two more machines:<br>
+  Dynamic Modeling and Mathlab
 
-<img src="pics/MIT-AI.png" width="25%"></img>
-<img src="pics/MIT-DMS.jpg" width="30%"></img>
-<img src="pics/MIT-ML.jpg" width="28%"></img>
+<img src="pics/MIT-AI.png" width="30%"></img>
+<img src="pics/MIT-DMS.jpg" width="35%"></img>
+<img src="pics/MIT-ML.jpg" width="32%"></img>
+
+---
+
+### HEYDAYS
+
+- Network file system
+- Memory mapped raster displays
+- Fancy keyboards
+- Chaosnet
+- Macsyma KL10 1975
+- Emacs 1976
+- TCP/IP 1982
+
+<img src="pics/knight-console.jpg" width="45%"></img>
+<img src="pics/MIT-MC.jpg" width="38%"></img>
 
 ---
 
@@ -141,58 +163,22 @@ Lars Brinkhoff
 
 <div style="float: left; width: 60%;">
 <ul>
-<li>AI</li>
+<li>Artificial Intelligence</li>
 <li>Robotics</li>
 <li>Computer Vision</li>
-<li>Logo</li>
 <li>Lisp, Scheme</li>
 <li>Lisp Machine</li>
+<li>Macsyma</li>
+<li>Logo</li>
 <li>Muddle</li>
 <li>CLU</li>
-<li>Macsyma</li>
-<li>Networking</li>
 </ul>
 </div>
 
-<div style="float: right; width: 40%;">
-<img src="pics/robot.jpg" width="45%"></img>
-<img src="pics/Turtle.jpg" width="45%"></img>
-<img src="pics/IMP.jpg" width="40%"></img>
+<div style="float: right; width: 40%; margin-top: 5%">
+<img src="pics/robot.jpg" width="70%"></img>
+<img src="pics/Turtle.jpg" width="70%"></img>
 </div>
-
----
-
-<div style="float: left; width: 85%;">
-
-<h3>LISP</h3>
-
-<ul>
-<li>Invented 1958 by John McCarthy</li>
-<li>Initially for IBM 704 by Steve Russell</li>
-<li>Ported to PDP-6</li>
-<li>Maclisp for ITS</li>
-<li>Compiler competetive with Fortran</li>
-<li>Lisp machine by Greenblatt and Knight</li>
-<li>Scheme by Steele and Sussman</li>
-</ul>
-</div>
-
-<div style="float: right; width: 15%;">
-<img src="pics/McCarthy.png" width="100%"></img>
-<img src="pics/CADR.jpg" width="100%"></img>
-<img src="pics/GLS.png" width="100%"></img>
-</div>
-
----
-
-### MACSYMA
-
-- Joel Moses
-- Used by researchers over the ARPANET
-- Funded Maclisp development
-- Two ITS machines
-
-<img src="pics/Moses.jpg" width="50%"></img>
 
 ---
 
@@ -202,7 +188,37 @@ Lars Brinkhoff
 - Natural language understanding
 - Planning and solving problems
 
-<img src="pics/shrdlu.jpg" width="50%">
+<img src="pics/shrdlu.jpg" width="70%">
+
+---
+
+<h3>LISP</h3>
+
+<ul>
+<li>Invented 1958 by John McCarthy</li>
+<li>Initially for IBM 704 by Steve Russell</li>
+<li>Implemented for PDP-6</li>
+<li>Maclisp for ITS</li>
+<li>Compiler competitive with Fortran</li>
+<li>Lisp machine by Greenblatt, Knight</li>
+<li>Scheme by Steele, Sussman</li>
+</ul>
+
+<img src="pics/McCarthy.png" width="30%"></img>
+<img src="pics/CADR.jpg" width="22%"></img>
+<img src="pics/GLS.png" width="20%"></img>
+
+---
+
+### MACSYMA
+
+- Symbolic Manipulation
+- Joel Moses
+- Used by researchers over the Arpanet
+- Funded Maclisp development
+- Two ITS machines
+
+<img src="pics/Moses.jpg" width="50%"></img>
 
 ---
 
@@ -210,19 +226,21 @@ Lars Brinkhoff
 
 <h3>LOGO</h3>
 
-<font size="6.5">
 <ul>
-<li>BBN 1967 by Feurzeig, Papert, Solomon</li>
+<li>BBN 1967</li>
 <li>Moved to MIT 1970</li>
 <li>PDP-10 version ported to ITS</li>
-<li>New versions for PDP-11, Maclisp, Apple II...<br></li>
+<li>New versions for PDP-11, Maclisp, Apple II<br></li>
 <li>Developed on ITS</li>
 <li>General Turtle, Logo machine</li>
 </ul>
-</font>
+
+<h3>Small ITS</h3>
+<img src="pics/sits-and-logo.png" width="45%"></img>
+
 </div>
 
-<div style="float: right; width: 25%;">
+<div style="float: right; width: 25%; margin-top: 10%;">
 <img src="pics/Papert.jpg" width="100%"></img>
 <img src="pics/Minsky.png" width="100%"></img>
 </div>
@@ -231,11 +249,11 @@ Lars Brinkhoff
 
 ### MUDDLE
 
-- Intended as an update of Lisp.
-- Used exclusively by the Dynamic Modeling group.
-- Zork was written in Muddle.
-- Infocom, text adventure boom.
-- Bootstrap CLU.
+- Intended as an successor to Lisp
+- Exclusive to the Dynamic Modeling group
+- Zork was written in Muddle
+- Infocom, text adventure boom
+- Bootstrap CLU
 
 ---
 
@@ -243,26 +261,11 @@ Lars Brinkhoff
 
 - Cluster
 - Data abstraction
-- Exceptions
-- Iterators
-- Parametric types
+- Exceptions, Iterators, Parametric types
 - Influenced C++, Perl, Java, Ruby, ...
+- X Window System
 
-<img src="pics/Liskov.jpg" width="25%"></img>
-
----
-
-### HEYDAYS
-
-- Network file system
-- Memory mapped raster displays
-- Space cadet-like keyboards
-- MC KL10 1975
-- Emacs 1976
-- TCP/IP 1982
-
-<img src="pics/knight-console.jpg" width="25%"></img>
-<img src="pics/MIT-MC.jpg" width="21%"></img>
+<img src="pics/Liskov.jpg" width="45%"></img>
 
 ---
 
@@ -279,9 +282,9 @@ Lars Brinkhoff
 
 <div style="float: right; width: 50%;">
 <ul>
-<li>Maze War</li>
+<li>Maze</li>
 <li>Dazzle Dart</li>
-<li>Moonlander</li>
+<li>Lunar Lander</li>
 <li>Zork</li>
 </ul>
 </div>
@@ -290,17 +293,17 @@ Lars Brinkhoff
 <img src="pics/flight.png" width="16%"></img>
 <img src="pics/MazeWar.jpg" width="12%"></img>
 <img src="pics/dazzle.png" width="16%"></img>
-<img src="pics/Zork.jpg" width="25%"></img>
+<img src="pics/Zork.jpg" width="29%"></img>
 
 <!--
 
 ### IMPORTED SOFTWARE
 
-- Emulator for TOPS-10 and WAITS system calls.
-- Collaboration between PDP-10 sites.
-- DEC: MACRO, LINK, CROSS, Fortran.
-- SAIL: FAIL, SPELL, SUDS, TeX, PUB, GEOMED.
-- CMU: Scribe.
+- Emulator for TOPS-10 and WAITS system calls
+- Collaboration between PDP-10 sites
+- DEC: MACRO, LINK, CROSS, Fortran
+- SAIL: FAIL, SPELL, SUDS, TeX, PUB, GEOMED
+- CMU: Scribe
 
 <img src="pics/geomed.png" width="27%"></img>
 <img src="pics/advent.png" width="30%"></img>
@@ -333,15 +336,18 @@ Lars Brinkhoff
 
 ---
 
-### FEATURES AND LIMITATIONS
+### FEATURES
 
 - PCLSR, PC lusering
 - Processes & processors available as files
 - The debugger is the user interface
-- Application command sets are similar to Emacs
+- Application UX similar to Emacs
 - User-space device drivers
 - Real-time scheduling
 - Terminal-independent text output
+
+### LIMITATIONS
+
 - Just one level of directories
 - File names 6+6 characters
 
@@ -354,13 +360,13 @@ Lars Brinkhoff
 - KL10 shipped to Sweden 1988
 - Shut down 1990
 
-<img src="pics/AI-KS10.jpg" width="23%">
+<img src="pics/AI-KS10.jpg" width="40%">
 
 ---
 
 ### TIMESTAMPS
 
-<img src="pics/timestamps.png">
+<img src="pics/timestamps.png" width="100%">
 
 ---
 
@@ -372,23 +378,23 @@ Lars Brinkhoff
 
 ### LEGACY
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 70%;">
 <ul>
 <li>GNU project</li>
 <li>Emacs</li>
 <li>Info</li>
-<li>WHOIS</li>
 <li>Emacs Lisp, Common Lisp</li>
-<li>Meta key (from SAIL)</li>
+<li>Macsyma, Maxima</li>
+<li>Meta key</li>
 <li>Unix job control</li>
-<li>And --More--</li>
+<li>more, less</li>
 </ul>
 </div>
 
-<div style="float: right; width: 40%;">
-<img src="pics/GNU.jpg" width="40%"><br>
-<img src="pics/Emacs.png" width="40%"><br>
-<img src="pics/Meta.jpg" width="40%"><br>
+<div style="float: right; width: 30%;">
+<img src="pics/GNU.jpg" width="60%"><br>
+<img src="pics/Emacs.png" width="60%"><br>
+<img src="pics/Meta.jpg" width="60%"><br>
 </div>
 
 ---
@@ -410,21 +416,22 @@ Lars Brinkhoff
 - Put on Internet 2001
 - Public ITS distribution
 - Unix tools for ITS files and networking
-- Restoration 2016
 
-<img src="pics/pdp10x.jpg" width="25%">
+<img src="pics/pdp10x.jpg" width="60%">
 
 ---
 
 ### RESTORATION
 
+- Emulate PDP-10 + strange hardware
 - MIT backups
 - Search through files on tapes
 - Find interesting programs 
 - Build from source code
 - Debug
+- Emulated Chaosnet
 
-<img src="pics/label.jpg" width="30%"></img>
+<img src="pics/label.jpg" width="40%"></img>
 
 ---
 
@@ -434,38 +441,25 @@ Lars Brinkhoff
 - Make file system on disk
 - Load ITS and a few binary programs
 - Reboot into ITS
-- Build system and >300 programs
+- Build system and >400 programs
 - Many bug fixes
 - Issue tracking
 - Continuous integration
-- http://github.com/PDP-10/its
 
 ---
 
-### TODO
+### PiDP-10
 
-- PDP-6 version of ITS
-- SHRDLU
-- Small ITS
-- Emulate more hardware
-
----
-
-### LIVING COMPUTERS MUSEUM
-
-- Made a disk image for their KS10
-- Installed remotely on a disk emulator
-- It's now running at the museum
-- Available from Internet
+<img src="pics/pidp10.png" width="100%"></img>
 
 ---
 
 ### MORE INFORMATION
 
 - <a href="http://github.com/PDP-10/its">github.com/PDP-10/its</a>
-- <a href="http://its.victor.se">its.victor.se</a>
-- <a href="http://its.pdp10.se">its.pdp10.se</a>
-- "Hackers" book
+- <a href="https://github.com/larsbrinkhoff/its-manual/wiki">New manual</a>
+
+<img src="pics/hackers-heroes.jpg" width="60%"></img>
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
