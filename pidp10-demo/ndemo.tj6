@@ -1,0 +1,162 @@
+.xgp
+.c normal
+.font 0 31vg
+.c title
+.font 1 57vsgn
+.c blocky
+.font 2 40vshd
+.c "baskerville"
+.font 3 36vbee
+.c italics
+.font 4 31vgi
+.squish
+.plinch 5
+.nohead
+.center
+1SPECIAL SEMINAR0
+
+
+.center
+Reconstructing the History of Incompatible Computing
+
+.center
+Lars Brinkhoff and Oscar Vermeulen
+
+
+
+
+
+
+
+
+.center
+4Written using 2TJ64 and 3XGP0
+.page
+.center
+1OVERVIEW0
+
+
+We are here to talk about MIT's Incompatible Timesharing System,
+and how we recreated the system and made a computer replica to run it.
+.page
+.center
+1WHY ARE WE DOING THIS?0
+
+
+We want people to experience the ultimate hacker playground,
+encapsulated in a gadget with blinking lights and switches.
+.page
+.center
+1WHAT WAS THE AI LAB?0
+
+
+4OSCAR:0 The MIT AI Lab has a unique place in history, for the culture it
+created (earliest hackers), and the impact that had (major innovations
+at the time, but importantly, also a lasting impact in terms of Open
+Source culture) and the reason this happened (MIT/DARPA/DEC).
+
+4OSCAR:0 Referring to Levy's "Hackers" book, this project takes
+another angle.  Not preserving the human-interest stories, or the dry
+factuals, but to preserve what was actually there.  By reconstructing
+a fully functional version of the AI Lab.
+.page
+.center
+1WHAT IS THE PDP-10?0
+
+
+- IBM, batch computing
+
+- MIT, interactivity and timesharing
+
+- DEC
+.page
+.center
+1RECOVERY PROJECT0
+
+
+Software: Many (many!) people building up over the years.
+Rebuilding ITS from scratch, file by file.  MIT tape archives.
+
+Hardware: KA10 emulator unlocked AI lab world.
+PDP-10 replica.
+.page
+.center
+1FUN AI LAB HARDWARE0
+
+
+- PDP-10, central to the lab
+.br
+- PDP-6 on the side
+.br
+- 340 display
+.br
+- TV-11, XGP-11
+.br
+- Logo, SITS, 2500
+.br
+- Imlac
+.br
+- Lisp Machine
+.br
+- Chaosnet
+.br
+- IMP
+.br
+- Arpanet
+.page
+.center
+1DEMO0
+
+4OSCAR:0
+
+- Booting ITS.
+
+- PEEK on the 340.
+.page
+.center
+1DEMO0
+
+
+4OSCAR:0
+
+- Chess
+
+- Spacewar
+
+- Game of Life
+
+- SHRDLU
+.page
+.center
+1DEMO0
+
+
+4LARS:0
+
+- INFO
+
+- Maclisp
+
+- Eliza
+.page
+.center
+1DEMO0
+
+
+4LARS:0
+
+- Networking.  ARPANET, Chaosnet.
+
+- Maze.
+.page
+.center
+1THE END0
+
+
+
+
+
+
+
+
+The AI KA10 has been 4unflushed0, please update your programs.
